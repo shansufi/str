@@ -1,0 +1,569 @@
+body{
+    margin: 0;
+    
+}
+.container{
+    width: 100%;
+    height: 4550px;
+    background-color: #f5f5f5;
+}
+.nav-bar{
+    width: 100%;
+    height: 45px;
+    background-color: black;
+    position: fixed;
+    display: flex;
+    align-items: center;
+}
+.icon{
+    width: 16px;
+    height: 19px;
+    margin-top: 4px;
+    margin-left: 174px;
+   
+
+}
+.nav-link-bar{
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    height: 19px;
+    display: flex;
+    
+}
+li{
+    color: #f5f5f7d6;
+    display: flex;
+    text-decoration: none; 
+    margin-left: 37px;
+  
+    margin-top: -16px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+ 
+}
+.nav-links{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+li:hover{
+    color: #f5f5f7ab;
+}
+#bluebar{
+    color: #f5f5f7;
+    background-color: #25174c;
+    width: 100%;
+    height: 64px;
+    padding-top: 41px;
+
+}
+.ads-align{
+    margin-top: 50px;
+}
+#bluebar-text{
+    margin-bottom: 30px;
+    text-align: center; 
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.first-image-box{
+    height: 85vh;
+    width: 100%;
+    background-color: rgb(2, 2, 2);
+    background-image: url(images/14pro.1.jpg);
+    cursor: pointer;
+    padding-top: 46px;
+}
+.inside-fimage{
+    background-color: rgb(7, 1, 1);
+    width: 367px;
+    height: 152px;
+    margin-left: 482px;
+}
+#iphone{
+    color: white;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 47px;
+    margin-left: 17px;
+    margin-bottom: -22px;
+}
+#pro-beyond{
+    color: white;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 28px;
+    margin-left: 90px;
+
+}
+#learn-more{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 19px;
+    margin-left: 40px;
+    color: #2997ff;
+}
+.buy{
+    
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 19px;
+    margin-left: 154px;
+    float: right;
+    margin-right: 47px;
+    margin-top: -47px;
+    color: #2997ff;
+}
+h4:hover{
+    text-decoration: underline;
+}
+.second-image-box{
+    background-color: #f5f5f7;
+   width: auto;
+    height: 90vh;
+    background-image: url(images/seond.2.jpg);
+   padding-left: 397px;
+   padding-top: 47px;
+   cursor: pointer;
+}
+.inside-second-image{
+    background-color: #fbfbfbfa;
+    width: 552px;
+    height: 210px;
+}
+#iphone-14{
+    color: #161515;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 50px;
+    margin-left: 154px;
+}
+#bigger{
+    color: #161515;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 26px;
+    margin-left: 188px;
+    font-weight: 100;
+    margin-top: -22px;
+}
+#iphone-14-plus{
+    color: #b1a5a5e0;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 20px;
+    margin-left: 66px;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+#learn-second{
+   
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 19px;
+    margin-left: 124px;
+    font-weight: 100;
+    margin-top: -1px;
+    color: #06c;
+   
+}
+#shop-second{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 19px;
+    margin-left: 338px;
+    font-weight: 100;
+    margin-top: -38px;
+   color: #06c;
+    
+}
+.center-box-one{
+    width: auto;
+    height: 80vh;
+    background-color: f5f5f5;
+    cursor: pointer;
+}
+.center-one-left{
+    background-color: #f9f9f9;
+    float: left;
+    width: 654px;
+    height: 509px;
+    border: #f9f9f9  solid  5px;
+
+    background-image: url(images/watch.pro.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 654px;
+
+
+}
+.pro-watch{
+    
+   
+    background-color: #fafafb;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/pro.text.png);
+    background-repeat: no-repeat;
+    background-position: top; 
+}
+#adv{
+
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 24px;
+line-height: 0px;
+margin-top: 14px;
+
+text-align: center;
+letter-spacing: 0.626px;
+color: #818181;
+
+font-weight: lighter;
+
+}
+#pro-learnbox{
+    background-color: rgb(249 249 249);
+    width: 197px;
+    height: 19px;
+    margin-left: 228px;
+    margin-top: -17px;
+}
+#learnmore-prowatch{
+    font-size: 14px;
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.626px;
+    text-align: left;
+    color: #06c;
+    
+}
+#buy-pro{
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.626px;
+    text-align: right;
+    margin-top: -34px;
+    color: #06c;
+    
+}
+/* ........................... */
+
+
+
+.center-one-right{
+    background-color: rgb(2 2 2);
+    float: right;
+    width: 50%;
+    height: 509px;
+    border: #f5f5f7  solid  5px;
+
+    background-image: url(images/applewatch.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1138px;
+
+}
+.watch-series{
+    
+   
+    background-color: #020202;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/watch.series.png);
+    background-repeat: no-repeat;
+    background-position: top;
+
+  
+
+    
+}
+
+#srs{
+
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 21px;
+line-height: 0px;
+margin-top: 14px;
+
+text-align: center;
+letter-spacing: 0.626px;
+color: #fff;
+
+font-weight: lighter;
+
+}
+#srs-learnbox{
+    background-color: rgb(0, 0, 0);
+    width: 197px;
+    height: 19px;
+    margin-left: 228px;
+    margin-top: -17px;
+}
+#learnmore-srs{
+    font-size: 14px;
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.626px;
+    text-align: left;
+    color: #2997ff;
+    
+}
+#buy-srs{
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.626px;
+    text-align: right;
+    margin-top: -34px;
+    color: #2997ff;
+    
+}
+
+/* ..................................................................... */
+
+.center-box-two{
+    width: auto;
+    height: 80vh;
+    margin-top: -10px;
+    background-color: #fffffffa;
+    cursor: pointer;
+
+}
+.center-two-left{
+    background-color: blueviolet;
+    float: left;
+    width: 654px;
+    height: 509px;
+    border: #f5f5f7  solid  5px;
+
+    background-image: url(images/airpods.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1152px;
+
+
+}
+.airpod{
+    
+   
+    background-color: #fafafb;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/airpod.txt);
+    background-repeat: no-repeat;
+   
+    background-position: -30px;
+}
+#airpod-learnbox{
+    background-color: rgb(0, 0, 0);
+    width: 197px;
+    height: 19px;
+    margin-left: 228px;
+    margin-top: -5px;
+}
+
+
+/* ............................................................. */
+.center-two-right{
+    background-color: rgb(141, 189, 31);
+    float: right;
+    width: 50%;
+    height: 509px;
+    border: #f5f5f7  solid  5px;
+
+    background-image: url(images/watches.round.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1179px;
+}
+.se-watch{
+    
+   
+    background-color: #fafafb;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/se.watch.png);
+    background-repeat: no-repeat;
+    background-position: top; 
+}
+#se-text{
+
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 24px;
+line-height: 0px;
+margin-top: 14px;
+
+text-align: center;
+letter-spacing: 0.626px;
+color: #818181;
+
+font-weight: lighter;
+
+}
+#se-learnbox{
+    background-color: rgb(249 249 249);
+    width: 197px;
+    height: 19px;
+    margin-left: 228px;
+    margin-top: -13px;
+}
+
+/* ..................................................... */
+
+.center-box-three{
+    width: auto;
+    height: 80vh;
+    margin-top: -10px;
+    background-color: #fffffffa;
+    cursor: pointer;
+}
+.mac{
+    
+   
+    background-color: #fafafb;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/mac.book.3.text.png);
+    background-repeat: no-repeat;
+    background-position: top; 
+
+    background-size: 256px;
+    
+    padding-top: 14px;
+}
+.center-three-left{
+    background-color: blueviolet;
+    float: left;
+    width: 654px;
+    height: 509px;
+    border: #fefefffa  solid  5px;
+
+
+    background-image: url(images/macbook.air.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1179px;
+
+
+}
+
+/* .................................................. */
+.center-three-right{
+    background-color: rgb(141, 189, 31);
+    float: right;
+    width: 50%;
+    height: 509px;
+    border: #fefefffa  solid  5px;
+
+
+    background-image: url(images/ipad.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1179px;
+
+}
+.ipad{
+    
+   
+    background-color: #fafafb;
+  
+
+    height: 64px;
+    width: 271px;
+    margin-left: 191px;
+   
+    margin-top: 25px;
+    background-image: url(images/ipad.txt.1.1.png);
+    background-repeat: no-repeat;
+    background-position: top; 
+    background-size: 324px;
+}
+#ipad-text{
+
+    font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 0px;
+margin-top: 14px;
+
+text-align: center;
+letter-spacing: 0.626px;
+color: #f5f5f5;
+
+font-weight: lighter;
+
+}
+#ipad-learnbox{
+    
+    background-color: rgb(2 2 2);
+    width: 197px;
+    height: 19px;
+    margin-left: 242px;
+    margin-top: -10px;
+    
+}
+.btm-one{
+    width: auto;
+    height: 550px;
+    background-color: #fefefffa;
+    margin-top: -9px;
+
+    background-image: url(images/filim.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.btm-two{
+    width: auto;
+    height: 500px;
+    background-color: #f5f5f5;
+
+    padding-left: 104px;
+    padding-top: 20px;
+    color: #5e5e5e;
+}
+.btm-table{
+    width: 1155px;
+    height: 490px;
+    background-color: #f5f5f5;
+    background-position: center;
+    margin-left: 87px;
+    
+
+   
+}
+.table{
+   text-align: left;
+   margin-left: 10px;
+   width: 1200px;
+   height: 400px;
+   font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+   font-size: 13px;
+   line-height: 1.47059;
+   font-weight: 400;
+   letter-spacing: -.022em;
+   font-style: normal;
+   
+}
+a{
+    color: #5e5e5e;
+}
